@@ -1,8 +1,7 @@
 # twitch-graphql
-A *work-in-progress* wrapper implementation of the [Twitch API] in [GraphQL].
+A **work-in-progress** wrapper implementation of the [Twitch API](https://github.com/justintv/twitch-api) in [GraphQL](http://graphql.org/).
 
-# Running
-
+## Running
 Just run the following commands:
 
 ```
